@@ -1,0 +1,62 @@
+#abc {
+    background-image:url('hatter.jpg');
+}
+
+#cab {
+    background-image: url('fejlec.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 920px;
+    height: 140px;
+    border: none;
+    margin-left: 500px;
+    margin-bottom: 0px;
+}
+
+#h111 {
+    text-align: center;
+    margin-top: 10px;
+    color: black
+}
+
+.center {
+    padding: 50px 0;
+}
+
+#tart {
+    height: 700px;
+    width: 700px;
+    background-image: url("tartalomkep.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    margin-left: 720px;
+    margin-top: 0px;
+}
+
+p {
+    color: rgb(88, 88, 88);
+    font-size: 21px;
+}
+
+#menukep {
+    margin-left: 500px;
+    float: left;
+    height: 700px;
+    width: 220px;
+    border: none;
+    background-image: url("menukep.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+}
+
+#h11 {
+    color: red;
+    text-align: left;
+}
+
+#p11 {
+    color: red;
+    text-align: center;
+}
